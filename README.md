@@ -63,10 +63,3 @@ project_root/
    ```
 
 Acesse o navegador no endereço indicado (geralmente `http://localhost:8501`).
-
-## 🖼️ Screenshots
-
-*(Adicione screenshots da sua aplicação aqui)*
-
----
-*Desenvolvido como parte de portfólio de Engenharia de Software.*
