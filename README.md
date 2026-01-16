@@ -13,7 +13,7 @@ Este projeto é um **simulador de otimização de corte e empacotamento 2D** (2D
   - *Único*: Gera layouts separados para cada tipo de rótulo.
 - **Exportação**: Download dos layouts em **PNG** e **CSV**.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **[Streamlit](https://streamlit.io/)**: Interface web interativa.
 - **[Rectpack](https://github.com/secnot/rectpack)**: Motor de algoritmos de bin packing.
