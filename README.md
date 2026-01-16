@@ -1,9 +1,9 @@
 
-# 📦 Simulador de Empacotamento 2D (RectPack Playground)
+# Simulador de Empacotamento 2D (RectPack Playground)
 
 Este projeto é um **simulador de otimização de corte e empacotamento 2D** (2D Bin Packing), desenvolvido em Python com **Streamlit**. Ele foi criado para auxiliar gráficas e indústrias na redução de desperdício de matéria-prima (folhas adesivas, papel, chapas), utilizando heurísticas clássicas de empacotamento.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Múltiplos Algoritmos**: Suporte a heurísticas como *MaxRects*, *Guillotine* e *Skyline* (via biblioteca `rectpack`).
 - **Visualização Interativa**: Geração automática de layouts de corte com plotagem visual.
@@ -20,7 +20,7 @@ Este projeto é um **simulador de otimização de corte e empacotamento 2D** (2D
 - **[Matplotlib](https://matplotlib.org/)**: Visualização gráfica dos layouts.
 - **[Pandas](https://pandas.pydata.org/)**: Manipulação de dados e exportação CSV.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 project_root/
@@ -35,7 +35,7 @@ project_root/
 └── README.md            # Documentação
 ```
 
-## ⚙️ Como Executar
+## Execução
 
 1. **Clone o repositório**:
    ```bash
