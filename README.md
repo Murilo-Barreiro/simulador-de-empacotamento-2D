@@ -39,8 +39,8 @@ project_root/
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+   git clone https://github.com/Murilo-Barreiro/simulador-de-empacotamento-2D.git
+   cd simulador-de-empacotamento-2D.git
    ```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado)**:
