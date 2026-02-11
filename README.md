@@ -63,3 +63,7 @@ project_root/
    ```
 
 Acesse o navegador no endereço indicado (geralmente `http://localhost:8501`).
+
+Aplicação:
+https://simulador-de-empacotamento-2d.streamlit.app/
+https://simulador-de-empacotamento-2d.streamlit.app/
